@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2F80ED</color>
+    <color name="colorPrimaryDark">#1A53A1</color>
+    <color name="colorAccent">#3CB46E</color>
+    
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <color name="bg_screen">#FAFAFA</color>
+    <color name="bg_search">#F5F5F5</color>
+    
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    
+    <color name="status_alive">#3CB46E</color>
+    <color name="status_dead">#E53935</color>
+    <color name="status_unknown">#9E9E9E</color>
+    <color name="badge_blue">#3665E0</color>
+    <color name="badge_green">#3CB46E</color>
+    
+    <color name="info_bg">#E8F5E9</color>
+</resources>
