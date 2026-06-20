@@ -22,7 +22,7 @@ Um aplicativo Android moderno e elegante que consome a [Rick and Morty API](http
 
 1. Clone o repositório para a sua máquina:
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/dierlisson/RickMortyHubApp.git
 ```
 2. Abra o projeto no **Android Studio**.
 3. Aguarde a sincronização do **Gradle**.
@@ -32,4 +32,18 @@ git clone <url-do-repositorio>
 A interface foi recentemente reformulada com base em designs modernos, contando com Splash Screen, imagens circulares arredondadas e badges indicadores de status de vida.
 
 ---
-Desenvolvido com dedicação 💚
+## 👤 Autor
+
+Desenvolvido por **Dierlisson Justiniano**.
+
+Projeto criado como parte de um desafio técnico de desenvolvimento Android Nativo, focado em **Arquitetura Limpa**, **Jetpack Compose** e **Testes Automatizados**.
+
+Entre em contato!
+* [LinkedIn](https://www.linkedin.com/in/dierlissonjustiniano/)
+* [GitHub](https://github.com/dierlisson)
+
+---
+
+## 📄 Licença
+
+Este projeto foi desenvolvido para fins educacionais.
