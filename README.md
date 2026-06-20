@@ -28,15 +28,19 @@ git clone https://github.com/dierlisson/RickMortyHubApp.git
 3. Aguarde a sincronização do **Gradle**.
 4. Clique em **Run** (`Shift + F10`) e emule em um dispositivo virtual ou físico com Android.
 
-## 📸 Imagens do Projeto
-A interface foi recentemente reformulada com base em designs modernos, contando com Splash Screen, imagens circulares arredondadas e badges indicadores de status de vida.
+## 📸 Vídeo do Projeto
+
+<video src="https://github.com/user-attachments/assets/e1c0a937-92bd-45ef-a441-0c28151d33a9" width="100%" controls></video>
+
+
+
 
 ---
 ## 👤 Autor
 
 Desenvolvido por **Dierlisson Justiniano**.
 
-Projeto criado como parte de um desafio técnico de desenvolvimento Android Nativo, focado em **Arquitetura Limpa**, **Jetpack Compose** e **Testes Automatizados**.
+Projeto criado como parte de um desafio técnico de desenvolvimento Android Nativo.
 
 Entre em contato!
 * [LinkedIn](https://www.linkedin.com/in/dierlissonjustiniano/)
